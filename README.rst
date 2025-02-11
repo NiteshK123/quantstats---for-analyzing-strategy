@@ -26,6 +26,7 @@
     :target: https://twitter.com/aroussi
     :alt: Follow me on twitter
 
+
 \
 
 QuantStats: Portfolio analytics for quants
